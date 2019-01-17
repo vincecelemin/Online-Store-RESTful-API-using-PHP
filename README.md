@@ -1,0 +1,1 @@
+This repository is the server side script used by [this](https://github.com/vincecelemin/Android-Online-Store-Project-using-REST) project, an Android based online store with CRUD functionalities for the products and the user's credit points.
